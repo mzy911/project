@@ -27,8 +27,7 @@
 
 ### 其它项目
 
-[dumi-component-lib ](https://github.com/mzy911/dumi-component-lib)
-* 利用dumi封装组件库
+[dumi-component-lib dumi封装组件库](https://github.com/mzy911/dumi-component-lib)
 
 
 
