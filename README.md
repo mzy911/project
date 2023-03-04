@@ -1,8 +1,8 @@
 ### React
 [Hooks-Admin](https://github.com/mzy911/webpackCli.git)
 
-* Hooks Admin
-* 基于 React18、React-Router v6、React-Hooks、Redux && Redux-Toolkit、TypeScript、Vite2、Ant-Design 开源的一套后台管理框架
+* Hooks Admin 后台管理框架
+* 基于 React18、React-Router v6、React-Hooks、Redux && Redux-Toolkit、TypeScript、Vite2、Ant-Design 
 
 
 
@@ -28,7 +28,7 @@
 ### 其它项目
 
 [dumi-component-lib](https://github.com/mzy911/dumi-component-lib)
-* 利用 dumi 开发 react 组件库
+* 利用 dumi 开发的 react 组件库
 * 封装常用组件如：button、alert、input、icon、switch 等...
 
 
