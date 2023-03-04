@@ -7,19 +7,6 @@
 
 
 
-***
-
-
-### 徒手搭建项目
-
-[webpack 项目](https://github.com/mzy911/webpackCli.git)
-
-* 包含三个分支：webpackCli、vueCli、reactCli
-* webpack详细配置(webapck4、webpack5)
-* Babel、eslint、husky、commitlint 配置
-* 接入 ts (TS语法讲解)
-
-
 
 
 *** 
@@ -27,10 +14,17 @@
 
 ### 拓展项目
 
+[webpackCli](https://github.com/mzy911/webpackCli.git)
+* 手动搭建 webpack 脚手架项目
+* 包含三个分支：webpackCli、vueCli、reactCli
+* webpack详细配置(webapck4、webpack5)
+* Babel、eslint、husky、commitlint 配置
+* 接入 ts (TS语法讲解)
+
+
 [dumi-component-lib](https://github.com/mzy911/dumi-component-lib)
 * 利用 dumi 开发的 react 组件库
 * 封装常用组件如：button、alert、input、icon、switch 等...
-
 
 
 [pnpm-monorepo](https://github.com/mzy911/pnpm-monorepo.git)
