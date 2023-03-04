@@ -1,8 +1,8 @@
 ### React
 [Hooks-Admin](https://github.com/mzy911/webpackCli.git)
 
-* Hooks Admin 后台管理框架
-* 基于 React18、React-Router v6、React-Hooks、Redux && Redux-Toolkit、TypeScript、Vite2、Ant-Design 
+* Hooks Admin 后台管理项目
+* 基于 React18、React-Router v6、React-Hooks、Redux && Redux-Toolkit、TypeScript、Vite2、Ant-Design 开发
 
 
 
